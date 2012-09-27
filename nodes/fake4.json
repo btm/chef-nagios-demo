@@ -1,0 +1,27 @@
+{
+  "run_list": [
+
+  ],
+  "name": "fake4",
+  "override": {
+  },
+  "chef_type": "node",
+  "json_class": "Chef::Node",
+  "chef_environment": "_default",
+  "default": {
+  },
+  "normal": {
+  },
+  "automatic": {
+    "hostname": "fake4",
+    "fqdn": "fake4.example.org",
+    "ipaddress": "172.16.151.54",
+    "os": "windows",
+    "dmi": {
+      "system": {
+        "manufacturer": "Dell"
+      }
+    }
+  }
+}
+

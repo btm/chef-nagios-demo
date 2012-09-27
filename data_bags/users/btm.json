@@ -1,0 +1,10 @@
+    {
+      "id": "btm",
+      "groups": "sysadmin",
+      "htpasswd": "$apr1$vSv7yOov$v8MIrdekoGElt7HhTeZfY/",
+      "nagios": {
+        "pager": "btm-pager@opscode.com",
+        "email": "btm@opscode.com"
+      }
+    }
+

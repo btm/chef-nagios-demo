@@ -1,0 +1,27 @@
+{
+  "run_list": [
+
+  ],
+  "name": "fake2",
+  "override": {
+  },
+  "chef_type": "node",
+  "json_class": "Chef::Node",
+  "chef_environment": "_default",
+  "default": {
+  },
+  "normal": {
+  },
+  "automatic": {
+    "hostname": "fake2",
+    "fqdn": "fake2.example.org",
+    "ipaddress": "172.16.151.52",
+    "os": "linux",
+    "dmi": {
+      "system": {
+        "manufacturer": "HP"
+      }
+    }
+  }
+}
+
